@@ -8,3 +8,5 @@ basic git commands:
 -git commit
 -git status
 -git log
+-git push
+-git pull
